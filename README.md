@@ -79,4 +79,4 @@ Here we provide the starting dates of the tokens mentioned in the app:
 
 ### List of symbols of possible interest
 
-![](C:\Users\Standard\Desktop\HardForkTokens\www\tablesymbols.png){width=80%}
+![](HardForkTokens/www/tablesymbols.png){width=80%}

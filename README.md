@@ -1,7 +1,7 @@
 ---
-title: "Hard Fork Tokens"
+Title: "Hard Fork Tokens"
 author: "Camillo Giuseppe Majerczyk"
-date: "8/04/2021"
+date: "10/04/2021"
 output: html_document
 ---
 
@@ -80,3 +80,11 @@ Here we provide the starting dates of the tokens mentioned in the app:
 ### List of symbols of possible interest
 
 ![](HardForkTokens/www/tablesymbols.png)
+
+---
+Ethereum: "ETH-USD "
+Cardano: "ADA-USD"
+Dogecoin: "DOGE-USD"
+Stellar: "XLM-USD"
+DefiChain: "DFI-USD"
+---

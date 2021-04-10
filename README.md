@@ -39,6 +39,8 @@ To plot the trend chart, it is sufficient to input the **correct symbol** in the
 Then select the **start and end date** from the calendars below. And wait for the chart to load. <br>
 The output is shown on the right. It will be a **bar chart**, showing the dates on the lower axis, the values on the vertical axis and the date range above the graph. <br>
 
+![](HardForkTokens/www/exchart.png)
+
 _PLEASE NOTE_
 
 If the chart doesn’t update after you changed the date range, try to re-write the symbol with the calendar already set. <br>

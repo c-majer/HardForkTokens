@@ -1,9 +1,9 @@
----
+<!---
 Title: "Hard Fork Tokens"
 author: "Camillo Giuseppe Majerczyk"
 date: "10/04/2021"
 output: html_document
----
+--->
 
 <hr align="center" size="4px" width="95%">
 
@@ -66,6 +66,6 @@ Chainlink  &#8594;  September 18th 2017  <br>
 
 ### List of symbols of possible interest
 
-| Ethereum | Cardano  | Dogecoin  |
-| -------- | -------- | --------- |
-| ETH-USD  | ADA-USD  | DOGE-USD  |
+| Ethereum | Cardano  | Dogecoin  | Stellar | DefiChain | Siacoin | Nano     | Skycoin  | Diamond  | Tether   |
+| -------- | -------- | --------- | ------- | --------- | ------  | -------- | -------  | -------  | -------- |
+| ETH-USD  | ADA-USD  | DOGE-USD  | XLM-USD | DFI-USD   | SC-USD  | NANO-USD | SKY-USD  | DMD-USD  | USDT-USD |

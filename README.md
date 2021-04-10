@@ -63,3 +63,9 @@ Binance  &#8594;  July 24th 2017  <br>
 Chainlink  &#8594;  September 18th 2017  <br>
 
 <hr align="center" size="4px" width="90%">
+
+### List of symbols of possible interest
+
+| Ethereum | Cardano  | Dogecoin  |
+| -------- | -------- | --------- |
+| ETH-USD  | ADA-USD  | DOGE-USD  |

@@ -25,6 +25,8 @@ Every description also include the **two main indices** on the cryptocurrency ma
 
 Finally, a bold text suggests the **symbol** to input in the next section, in order to get the trend chart. <br>
 
+![](HardForkTokens/www/descriptiondiv.png)
+
 <hr align="center" size="4px" width="90%">
 
 ### Trends section

@@ -25,21 +25,15 @@ Every description also include the **two main indices** on the cryptocurrency ma
 
 Finally, a bold text suggests the **symbol** to input in the next section, in order to get the trend chart. <br>
 
-![](C:\Users\Standard\Desktop\HardForkTokens\www\descriptiondiv.png){width=80%}
-
 <hr align="center" size="4px" width="90%">
 
 ### Trends section
 This section allows to check the market trends in a specific date range. <br>
 The app gets the time series data from **Yahoo Finance**. Therefore, the symbol used must correspond to the ones used on Yahoo Finance. Otherwise it occurs an error.
 
-![](C:\Users\Standard\Desktop\HardForkTokens\www\errortrend.png){width=80%}
-
 To plot the trend chart, it is sufficient to input the **correct symbol** in the symbol-box. <br>
 Then select the **start and end date** from the calendars below. And wait for the chart to load. <br>
 The output is shown on the right. It will be a **bar chart**, showing the dates on the lower axis, the values on the vertical axis and the date range above the graph. <br>
-
-![](C:\Users\Standard\Desktop\HardForkTokens\www\exchart.png){width=80%}
 
 <div style= "background-color: MistyRose">
 
@@ -70,14 +64,11 @@ If you go out of the existing calendar, it won't display an error but the chart 
 Actually, the missing values in the valid time series  will eventually be removed when plotting the trend. <br>
 The trends are still reliable. But the *“existing date range”* is anyway a **compulsory feature**.
 
-
 Here we provide the starting dates of the tokens mentioned in the app: 
 
-![](HardForkTokens/www/dateranges.png)
+Ethereum Classic  &#8594;  July 18th 2016
+Kyber Network  &#8594;  September 17th 2018
+Binance  &#8594;  July 24th 2017
+Chainlink  &#8594;  September 18th 2017
 
 <hr align="center" size="4px" width="90%">
-
-### List of symbols of possible interest
-
-![](HardForkTokens/www/tablesymbols.png)
-

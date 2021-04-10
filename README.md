@@ -65,7 +65,7 @@ The default request with `getSymbols()` for Yahoo starts at 2007-01-01.
 ```diff
 - IMPORTANT
 
-When choosing the date range, please **check the launch date** of the cryptocurrency / token.
+When choosing the date range, please check the launch date of the cryptocurrency / token.
 For example, KNC-USD trend can be uploaded starting from September 17th 2018, 
 since this is the date Kyber Network has been launched in the market.
 If you go out of the existing calendar, it won't display an error but the chart won’t upload.

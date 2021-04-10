@@ -47,7 +47,9 @@ The output is shown on the right. It will be a **bar chart**, showing the dates 
 <img src="HardForkTokens/www/exchart.png" width="700" height="200">
 </p>
 
-_PLEASE NOTE_
+```diff
+! PLEASE NOTE
+```
 
 If the chart doesn’t update after you changed the date range, try to re-write the symbol with the calendar already set. <br>
 Also, the chart may not update due to the date range selected. To know more, read below.
@@ -58,7 +60,9 @@ Also, the chart may not update due to the date range selected. To know more, rea
 The app uses the `getSymbols()`  function to get the time series data from Yahoo Finance. <br>
 The default request with `getSymbols()` for Yahoo starts at 2007-01-01.
 
-_IMPORTANT_
+```diff
+! IMPORTANT
+```
 
 When choosing the date range, please **check the launch date** of the cryptocurrency / token. <br>
 For example, KNC-USD trend can be uploaded starting from September 17th 2018, since this is the date Kyber Network has been launched in the market. <br>

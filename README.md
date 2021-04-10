@@ -25,7 +25,7 @@ Every description also include the **two main indices** on the cryptocurrency ma
 
 Finally, a bold text suggests the **symbol** to input in the next section, in order to get the trend chart. <br>
 
-![](HardForkTokens/www/descriptiondiv.png)
+<img src="HardForkTokens/www/descriptiondiv.png" width="700" height="200">
 
 <hr align="center" size="4px" width="90%">
 
@@ -33,13 +33,13 @@ Finally, a bold text suggests the **symbol** to input in the next section, in or
 This section allows to check the market trends in a specific date range. <br>
 The app gets the time series data from **Yahoo Finance**. Therefore, the symbol used must correspond to the ones used on Yahoo Finance. Otherwise it occurs an error.
 
-![](HardForkTokens/www/errortrend.png)
+<img src="HardForkTokens/www/errortrend.png" width="700" height="200">
 
 To plot the trend chart, it is sufficient to input the **correct symbol** in the symbol-box. <br>
 Then select the **start and end date** from the calendars below. And wait for the chart to load. <br>
 The output is shown on the right. It will be a **bar chart**, showing the dates on the lower axis, the values on the vertical axis and the date range above the graph. <br>
 
-![](HardForkTokens/www/exchart.png)
+<img src="HardForkTokens/www/exchart.png" width="700" height="200">
 
 _PLEASE NOTE_
 

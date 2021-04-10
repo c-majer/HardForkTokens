@@ -35,15 +35,10 @@ To plot the trend chart, it is sufficient to input the **correct symbol** in the
 Then select the **start and end date** from the calendars below. And wait for the chart to load. <br>
 The output is shown on the right. It will be a **bar chart**, showing the dates on the lower axis, the values on the vertical axis and the date range above the graph. <br>
 
-<div style= "background-color: MistyRose">
-
-<p style="color:red">
-_PLEASE NOTE:_
-</p>
+_PLEASE NOTE_
 
 If the chart doesn’t update after you changed the date range, try to re-write the symbol with the calendar already set. <br>
 Also, the chart may not update due to the date range selected. To know more, read below.
-</div>
 
 <hr align="center" size="4px" width="90%">
 
@@ -51,24 +46,20 @@ Also, the chart may not update due to the date range selected. To know more, rea
 The app uses the `getSymbols()`  function to get the time series data from Yahoo Finance. <br>
 The default request with `getSymbols()` for Yahoo starts at 2007-01-01.
 
-<div style= "background-color: MistyRose">
-<p style="color:red">
-_IMPORTANT:_
-</p>
+_IMPORTANT_
 
 When choosing the date range, please **check the launch date** of the cryptocurrency / token. <br>
 For example, KNC-USD trend can be uploaded starting from September 17th 2018, since this is the date Kyber Network has been launched in the market. <br>
 If you go out of the existing calendar, it won't display an error but the chart won’t upload.
-</div>
 
 Actually, the missing values in the valid time series  will eventually be removed when plotting the trend. <br>
 The trends are still reliable. But the *“existing date range”* is anyway a **compulsory feature**.
 
 Here we provide the starting dates of the tokens mentioned in the app: 
 
-Ethereum Classic  &#8594;  July 18th 2016
-Kyber Network  &#8594;  September 17th 2018
-Binance  &#8594;  July 24th 2017
-Chainlink  &#8594;  September 18th 2017
+Ethereum Classic  &#8594;  July 18th 2016  <br>
+Kyber Network  &#8594;  September 17th 2018  <br>
+Binance  &#8594;  July 24th 2017  <br>
+Chainlink  &#8594;  September 18th 2017  <br>
 
 <hr align="center" size="4px" width="90%">

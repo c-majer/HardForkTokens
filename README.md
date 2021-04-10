@@ -73,7 +73,7 @@ The trends are still reliable. But the *“existing date range”* is anyway a *
 
 Here we provide the starting dates of the tokens mentioned in the app: 
 
-![](C:\Users\Standard\Desktop\HardForkTokens\www\dateranges.png){width=50%}
+![](HardForkTokens/www/dateranges.png)
 
 <hr align="center" size="4px" width="90%">
 

@@ -136,7 +136,7 @@ ui <- fluidPage( theme = shinytheme("cyborg"),
     ## Footer
     fluidRow(
         column( width=2, offset= 5,
-            actionLink(inputId= "githublink", label="Go to GitHub", icon=icon("github", "fa-2x"), onclick ="window.open('http://google.com', '_blank')"),
+            actionLink(inputId= "githublink", label="Go to GitHub", icon=icon("github", "fa-2x"), onclick ="window.open('https://github.com/c-majer/HardForkTokens', '_blank')"),
             br(), br(), br()
         )
     )

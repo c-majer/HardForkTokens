@@ -50,8 +50,10 @@ The output is shown on the right. It will be a **bar chart**, showing the dates 
 ```diff
 - PLEASE NOTE
 
-If the chart doesn’t update after you changed the date range, try to re-write the symbol with the calendar already set.
-Also, the chart may not update due to the date range selected. To know more, read below.
+If the chart doesn’t update after you changed the date range, 
+try to re-write the symbol with the calendar already set.
+Also, the chart may not update due to the date range selected. 
+To know more, read below.
 ```
 
 <hr align="center" size="4px" width="90%">
@@ -64,7 +66,8 @@ The default request with `getSymbols()` for Yahoo starts at 2007-01-01.
 - IMPORTANT
 
 When choosing the date range, please **check the launch date** of the cryptocurrency / token.
-For example, KNC-USD trend can be uploaded starting from September 17th 2018, since this is the date Kyber Network has been launched in the market.
+For example, KNC-USD trend can be uploaded starting from September 17th 2018, 
+since this is the date Kyber Network has been launched in the market.
 If you go out of the existing calendar, it won't display an error but the chart won’t upload.
 ```
 

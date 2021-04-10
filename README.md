@@ -81,10 +81,3 @@ Here we provide the starting dates of the tokens mentioned in the app:
 
 ![](HardForkTokens/www/tablesymbols.png)
 
----
-Ethereum: "ETH-USD "
-Cardano: "ADA-USD"
-Dogecoin: "DOGE-USD"
-Stellar: "XLM-USD"
-DefiChain: "DFI-USD"
----

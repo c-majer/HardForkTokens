@@ -33,6 +33,8 @@ Finally, a bold text suggests the **symbol** to input in the next section, in or
 This section allows to check the market trends in a specific date range. <br>
 The app gets the time series data from **Yahoo Finance**. Therefore, the symbol used must correspond to the ones used on Yahoo Finance. Otherwise it occurs an error.
 
+![](HardForkTokens/www/errortrend.png)
+
 To plot the trend chart, it is sufficient to input the **correct symbol** in the symbol-box. <br>
 Then select the **start and end date** from the calendars below. And wait for the chart to load. <br>
 The output is shown on the right. It will be a **bar chart**, showing the dates on the lower axis, the values on the vertical axis and the date range above the graph. <br>

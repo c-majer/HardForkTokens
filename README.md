@@ -48,11 +48,11 @@ The output is shown on the right. It will be a **bar chart**, showing the dates 
 </p>
 
 ```diff
-! PLEASE NOTE
-```
+- PLEASE NOTE
 
 If the chart doesn’t update after you changed the date range, try to re-write the symbol with the calendar already set. <br>
 Also, the chart may not update due to the date range selected. To know more, read below.
+```
 
 <hr align="center" size="4px" width="90%">
 
@@ -61,12 +61,12 @@ The app uses the `getSymbols()`  function to get the time series data from Yahoo
 The default request with `getSymbols()` for Yahoo starts at 2007-01-01.
 
 ```diff
-! IMPORTANT
-```
+- IMPORTANT
 
 When choosing the date range, please **check the launch date** of the cryptocurrency / token. <br>
 For example, KNC-USD trend can be uploaded starting from September 17th 2018, since this is the date Kyber Network has been launched in the market. <br>
 If you go out of the existing calendar, it won't display an error but the chart won’t upload.
+```
 
 Actually, the missing values in the valid time series  will eventually be removed when plotting the trend. <br>
 The trends are still reliable. But the *“existing date range”* is anyway a **compulsory feature**.
